@@ -1,3 +1,4 @@
+{A: "S2D-Trim-Nums", B: "SS-Trim-Nums", C: "S2D-Simple", D: "D-Seprater", E: "S-Seprater", F: "Email Entry", G: "Remove Category"}
 00330-80000-00000-AA410|ABCDEFGH|2024-09-15
 00330-80000-00000-AA484|PEMCDS|2024-10-10
 00330-51828-93509-AAOEM|ABCDEFGH|2024-09-15
