@@ -1,4 +1,5 @@
 {A: "S2D-Trim-Nums", B: "SS-Trim-Nums", C: "S2D-Simple", D: "D-Seprater", E: "S-Seprater", F: "Email Entry", G: "Remove Category"}
+00326-10000-00000-AA845ABCDEFGH|2024-09-15|Anish sis
 00330-80000-00000-AA832|ABCDEFGH|2024-09-15|Mirha ch new
 00330-51219-70701-AAOEM|ABCDEFGH|2024-09-15|Malik rashid
 00330-80000-00000-AA453|ABCDEFG|2024-12-12|Farrukh
